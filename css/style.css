@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .orange-bg{
     background-color: #FEEAE9;
@@ -36,4 +36,8 @@
     border: none;
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: #fff;
 }
