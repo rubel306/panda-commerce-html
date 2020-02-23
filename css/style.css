@@ -16,3 +16,19 @@
 .price{
     color: #FF136F;
 }
+.single-cat{
+    padding: 20px;
+    border-radius: 10px;
+}
+.single-cat img{
+    width: 100px;
+}
+.cat1-bg{
+    background-color: #FFA500;
+}
+.cat2-bg{
+    background-color: #DA70D6;
+}
+.cat3-bg{
+    background-color: #0000FF;
+}
